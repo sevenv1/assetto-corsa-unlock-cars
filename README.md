@@ -2,7 +2,7 @@
 
 ## 💻 Preview :
 
-![image]()
+![image](showcase.png)
 
 
 ## 🔥 Features
