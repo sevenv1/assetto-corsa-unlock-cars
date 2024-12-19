@@ -12,7 +12,7 @@
 
 ## ✍️ Usage
 1. Download Python (https://www.python.org/downloads/)
-2. Run the file (😱)
+2. Run the "get every car" file (😱)
 
 ## ⚠️ DISCLAIMER
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
