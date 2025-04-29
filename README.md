@@ -19,5 +19,5 @@ This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibi
 
 ## 🗒️ NOTES
 
-- Contact : sevenv1 on discord and telegram
+- Contact : n2vk on discord
 - credits for radu for the readme!!!!
